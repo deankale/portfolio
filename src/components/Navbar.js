@@ -17,8 +17,11 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
+          <a href="https://medium.com/@pqtyyp" className="mr-5 hover:text-white">
+            Blog
+          </a>
+          <a href="https://github.com/deankale" className="mr-5 hover:text-white">
+            GitHub
           </a>
         </nav>
         <a

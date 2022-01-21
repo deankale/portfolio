@@ -12,7 +12,7 @@ export const projects = [
     title: "OnTrac",
     subtitle: "React, TailwindCSS, Project Management",
     description:
-      "Myself and a team of 3 developers create an app for ETHGlobal's NFT Hackathon 2022. OnTrac won 1st Place on Rarible Protocol and Harmony Protocol's Prize pools, and 2nd Place on Circle's Prize pool.",
+      "I was on a team of 4 developers creating an app for ETHGlobal's NFT Hackathon 2022. OnTrac won 1st Place on Rarible Protocol and Harmony Protocol's Prize pools, and 2nd Place on Circle's Prize pool.",
     image: "./OnTrac.gif",
     link: "https://showcase.ethglobal.com/nfthack2022/ontrac",
   },
