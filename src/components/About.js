@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export default function About() {
     return (
         <section id="about">
@@ -7,7 +8,7 @@ export default function About() {
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                 Hi, I'm Kyle.
-                <br className="hidden lg:inline-block" />I love to create.
+                <br className="hidden lg:inline-block" /> I love to create.
               </h1>
               <p className="mb-8 leading-relaxed">
                 Music, technology, design, science -- I believe there is very little that separates these things, and I've spent my entire life trying to strengthen the gaps between them.
@@ -29,7 +30,7 @@ export default function About() {
               <img
                 className="object-cover object-center rounded"
                 alt="hero"
-                src="./reeltoreel.png"
+                src="./TapeReelAnim02.gif"
               />
               {/* ^ replace this with a more personal graphic design */}
             </div>
