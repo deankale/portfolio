@@ -17,7 +17,7 @@ export default function About() {
                 <a
                   href="#contact"
                   className="inline-flex text-gray-700 bg-yellow-200 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-300 rounded text-lg">
-                  Work With Me
+                  Connect
                 </a>
                 <a
                   href="#projects"

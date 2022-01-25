@@ -12,7 +12,7 @@ export default function Projects() {
             Projects I've Build
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I have prolific tastes, and I am proud to have a body of work to reflect that truth.
+            I have prolific tastes, and I am proud to have a body of work to reflect that.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

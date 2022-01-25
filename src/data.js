@@ -1,6 +1,14 @@
 
 export const projects = [
   {
+    title: "(WIP) UI/UX Study: Crypto Education App",
+    subtitle: "Figma, UX Research, Design Sprints",
+    description:
+      "As part of my UI/UX Certification, I am working on a holistic case study revolving around a crypto education app idea",
+    image: "./mockups.gif",
+    link: "https://lydian-friday-9dc.notion.site/Crypto-Education-App-Case-Study-49c21555644f4c4eb064e944d5e38dbe",
+  },
+  {
     title: "Music Productions",
     subtitle: "Ableton Live 11",
     description:
